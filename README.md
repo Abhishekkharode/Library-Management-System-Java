@@ -64,15 +64,6 @@
   
   -Select **LoginUI.java** and click on run file.
   
+    
+  If this project helped you, then follow me on [Abhishekkharode](https://github.com/Abhishekkharode/) and 🌟 [this repository](https://github.com/Abhishekkharode/Library-Management-System-Java/)
   
-  
-  
-  For getting in touch or any help follow [Minahil Imtiaz](https://www.linkedin.com/in/minahilimtiaz/)
-  
-  If this project helped you, then follow me on [@minaahilimtiaz](https://github.com/minaahilimtiaz/) and 🌟 [this repository](https://github.com/minaahilimtiaz/Library-Management-System-Java/)
-  
-  
- 
- 
-        
-
